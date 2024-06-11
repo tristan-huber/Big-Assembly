@@ -1059,7 +1059,7 @@
                         },
                         {
                             "name": "height",
-                            "ioValue": 13
+                            "ioValue": 8.25
                         }
                     ]
                 },
@@ -1184,8 +1184,8 @@
         {
             "atomType": "CutLayout",
             "name": "Cut Layout",
-            "x": 0.7078125,
-            "y": 0.4137931034482759,
+            "x": 0.7583333333333333,
+            "y": 0.6428571428571428,
             "uniqueID": 1718132093386,
             "ioValues": [
                 {
@@ -1721,7 +1721,7 @@
             "ioValues": [
                 {
                     "name": "geometry",
-                    "ioValue": 1718131896609
+                    "ioValue": 1718132187659
                 },
                 {
                     "name": "tag",
@@ -1738,40 +1738,7 @@
             "ioValues": [
                 {
                     "name": "number or geometry",
-                    "ioValue": 1718132021080
-                }
-            ]
-        },
-        {
-            "atomType": "Gcode",
-            "name": "Gcode",
-            "x": 0.8432291666666667,
-            "y": 0.7402298850574713,
-            "uniqueID": 1718132021080,
-            "ioValues": [
-                {
-                    "name": "geometry",
                     "ioValue": 1718132093386
-                },
-                {
-                    "name": "tool size",
-                    "ioValue": 6.35
-                },
-                {
-                    "name": "passes",
-                    "ioValue": 6
-                },
-                {
-                    "name": "speed",
-                    "ioValue": 500
-                },
-                {
-                    "name": "tabs",
-                    "ioValue": "true"
-                },
-                {
-                    "name": "safe height",
-                    "ioValue": 6
                 }
             ]
         }
@@ -1835,13 +1802,6 @@
         },
         {
             "ap1Name": "Geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1718131896609,
-            "ap2ID": 1718132205004
-        },
-        {
-            "ap1Name": "Geometry",
             "ap2Name": "3D shape 3",
             "ap2Primary": false,
             "ap1ID": 1718131873825,
@@ -1878,9 +1838,16 @@
         {
             "ap1Name": "geometry",
             "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 1718132187659,
+            "ap2ID": 1718132205004
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "number or geometry",
             "ap2Primary": false,
             "ap1ID": 1718132093386,
-            "ap2ID": 1718132021080
+            "ap2ID": 1718131849737
         },
         {
             "ap1Name": "Geometry",
@@ -1895,13 +1862,6 @@
             "ap2Primary": false,
             "ap1ID": 1718132205004,
             "ap2ID": 1718132093386
-        },
-        {
-            "ap1Name": "gcode",
-            "ap2Name": "number or geometry",
-            "ap2Primary": false,
-            "ap1ID": 1718132021080,
-            "ap2ID": 1718131849737
         }
     ],
     "unitsIndex": 0,
