@@ -724,10 +724,14 @@
         {
             "atomType": "CutLayout",
             "name": "Cut Layout",
-            "x": 0.6036458333333333,
-            "y": 0.47356321839080456,
+            "x": 0.7078125,
+            "y": 0.4137931034482759,
             "uniqueID": 1718132093386,
             "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": 1718132205004
+                },
                 {
                     "name": "Spacing",
                     "ioValue": 5
@@ -1197,8 +1201,8 @@
         {
             "atomType": "Gcode",
             "name": "Gcode",
-            "x": 0.7895833333333333,
-            "y": 0.5333333333333333,
+            "x": 0.8432291666666667,
+            "y": 0.7402298850574713,
             "uniqueID": 1718132021080,
             "ioValues": [
                 {
@@ -1236,7 +1240,7 @@
                 },
                 {
                     "name": "tag",
-                    "ioValue": "Tag String"
+                    "ioValue": "cutLayout"
                 }
             ]
         },
@@ -1345,6 +1349,13 @@
             "ap2Primary": false,
             "ap1ID": 1718131873825,
             "ap2ID": 1718132187659
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": false,
+            "ap1ID": 1718132205004,
+            "ap2ID": 1718132093386
         }
     ],
     "unitsIndex": 0,
