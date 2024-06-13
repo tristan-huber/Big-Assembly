@@ -1204,6 +1204,20 @@
             ]
         },
         {
+            "atomType": "Color",
+            "name": "Color",
+            "x": 0.4807291666666667,
+            "y": 0.5944700460829493,
+            "uniqueID": 1718307343193,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": 1718307193785
+                }
+            ],
+            "selectedColorIndex": 5
+        },
+        {
             "atomType": "GitHubMolecule",
             "name": "light_clock_cad",
             "x": 0.2359375,
@@ -1763,10 +1777,6 @@
             "uniqueID": 1718132093386,
             "ioValues": [
                 {
-                    "name": "geometry",
-                    "ioValue": 1718132187659
-                },
-                {
                     "name": "Spacing",
                     "ioValue": 5
                 }
@@ -1784,20 +1794,6 @@
                     "ioValue": 1718132093386
                 }
             ]
-        },
-        {
-            "atomType": "Color",
-            "name": "Color",
-            "x": 0.4807291666666667,
-            "y": 0.5944700460829493,
-            "uniqueID": 1718307343193,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": 1718307193785
-                }
-            ],
-            "selectedColorIndex": 0
         }
     ],
     "allConnectors": [
@@ -1902,9 +1898,9 @@
         {
             "ap1Name": "geometry",
             "ap2Name": "geometry",
-            "ap2Primary": false,
-            "ap1ID": 1718132187659,
-            "ap2ID": 1718132093386
+            "ap2Primary": true,
+            "ap1ID": 1718307343193,
+            "ap2ID": 1718143476415
         },
         {
             "ap1Name": "Geometry",
@@ -1933,13 +1929,6 @@
             "ap2Primary": false,
             "ap1ID": 1718132093386,
             "ap2ID": 1718131849737
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1718307343193,
-            "ap2ID": 1718143476415
         }
     ],
     "unitsIndex": 0,
