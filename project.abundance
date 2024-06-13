@@ -1718,15 +1718,40 @@
             "fileTypeVersion": 1
         },
         {
-            "atomType": "CutList",
-            "name": "Add To Cutlist",
-            "x": 0.3953125,
-            "y": 0.8453947368421052,
-            "uniqueID": 1718143476415,
+            "atomType": "Rotate",
+            "name": "Rotate",
+            "x": 0.4182291666666667,
+            "y": 0.8133640552995393,
+            "uniqueID": 1718307193785,
             "ioValues": [
                 {
                     "name": "geometry",
                     "ioValue": 1718132752883
+                },
+                {
+                    "name": "x-axis degrees",
+                    "ioValue": 90
+                },
+                {
+                    "name": "y-axis degrees",
+                    "ioValue": 0
+                },
+                {
+                    "name": "z-axis degrees",
+                    "ioValue": 0
+                }
+            ]
+        },
+        {
+            "atomType": "CutList",
+            "name": "Add To Cutlist",
+            "x": 0.5380208333333333,
+            "y": 0.7811059907834101,
+            "uniqueID": 1718143476415,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": 1718307193785
                 }
             ]
         },
@@ -1872,6 +1897,13 @@
             "ap2Name": "geometry",
             "ap2Primary": true,
             "ap1ID": 1718132752883,
+            "ap2ID": 1718307193785
+        },
+        {
+            "ap1Name": "geometry",
+            "ap2Name": "geometry",
+            "ap2Primary": true,
+            "ap1ID": 1718307193785,
             "ap2ID": 1718143476415
         },
         {
