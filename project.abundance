@@ -1200,10 +1200,6 @@
                 {
                     "name": "3D shape 11",
                     "ioValue": 1718143745002
-                },
-                {
-                    "name": "3D shape 16",
-                    "ioValue": 1718207489897
                 }
             ]
         },
@@ -1757,7 +1753,12 @@
             "x": 0.98,
             "y": 0.5,
             "uniqueID": 1718131849737,
-            "ioValues": []
+            "ioValues": [
+                {
+                    "name": "number or geometry",
+                    "ioValue": 1718132093386
+                }
+            ]
         }
     ],
     "allConnectors": [
@@ -1816,13 +1817,6 @@
             "ap2Primary": true,
             "ap1ID": 1718131896609,
             "ap2ID": 1718207489897
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "3D shape 16",
-            "ap2Primary": false,
-            "ap1ID": 1718207489897,
-            "ap2ID": 1718132187659
         },
         {
             "ap1Name": "Geometry",
