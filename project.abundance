@@ -303,7 +303,12 @@
                     "x": 0.98,
                     "y": 0.5,
                     "uniqueID": 1718333565169,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "number or geometry",
+                            "ioValue": 1718333565839
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
@@ -1090,7 +1095,12 @@
                     "x": 0.98,
                     "y": 0.5,
                     "uniqueID": 1718335476418,
-                    "ioValues": []
+                    "ioValues": [
+                        {
+                            "name": "number or geometry",
+                            "ioValue": 1718335476805
+                        }
+                    ]
                 }
             ],
             "allConnectors": [
