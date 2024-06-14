@@ -72,16 +72,7 @@
             "x": 0.596875,
             "y": 0.4259868421052631,
             "uniqueID": 1718132187659,
-            "ioValues": [
-                {
-                    "name": "3D shape 8",
-                    "ioValue": 1718143476415
-                },
-                {
-                    "name": "3D shape 11",
-                    "ioValue": 1718143745002
-                }
-            ]
+            "ioValues": []
         },
         {
             "atomType": "Color",
@@ -179,12 +170,7 @@
             "x": 0.98,
             "y": 0.5,
             "uniqueID": 1718131849737,
-            "ioValues": [
-                {
-                    "name": "number or geometry",
-                    "ioValue": ""
-                }
-            ]
+            "ioValues": []
         },
         {
             "atomType": "GitHubMolecule",
@@ -1801,148 +1787,7 @@
             "fileTypeVersion": 1
         }
     ],
-    "allConnectors": [
-        {
-            "ap1Name": "number",
-            "ap2Name": "bredth",
-            "ap2Primary": false,
-            "ap1ID": 1718131985636,
-            "ap2ID": 1718333562331
-        },
-        {
-            "ap1Name": "number",
-            "ap2Name": "bredth",
-            "ap2Primary": false,
-            "ap1ID": 1718131985636,
-            "ap2ID": 1718333565797
-        },
-        {
-            "ap1Name": "number",
-            "ap2Name": "bredth",
-            "ap2Primary": false,
-            "ap1ID": 1718131985636,
-            "ap2ID": 1718333571635
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "outter diameter",
-            "ap2Primary": false,
-            "ap1ID": 1718131938259,
-            "ap2ID": 1718333562331
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "outter diameter",
-            "ap2Primary": false,
-            "ap1ID": 1718131938259,
-            "ap2ID": 1718333565797
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "outter_diameter",
-            "ap2Primary": false,
-            "ap1ID": 1718131938259,
-            "ap2ID": 1718333568570
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "outter_diameter",
-            "ap2Primary": false,
-            "ap1ID": 1718131938259,
-            "ap2ID": 1718333571635
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "thickness",
-            "ap2Primary": false,
-            "ap1ID": 1718131926655,
-            "ap2ID": 1718333562331
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "thickness",
-            "ap2Primary": false,
-            "ap1ID": 1718131926655,
-            "ap2ID": 1718333565797
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "thickness",
-            "ap2Primary": false,
-            "ap1ID": 1718131926655,
-            "ap2ID": 1718333568570
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "thickness",
-            "ap2Primary": false,
-            "ap1ID": 1718131926655,
-            "ap2ID": 1718333571635
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "3D shape 11",
-            "ap2Primary": false,
-            "ap1ID": 1718143745002,
-            "ap2ID": 1718132187659
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "number or geometry",
-            "ap2Primary": false,
-            "ap1ID": 1718132187659,
-            "ap2ID": 1718131849737
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1718307343193,
-            "ap2ID": 1718143476415
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1718308814452,
-            "ap2ID": 1718307343193
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "3D shape 8",
-            "ap2Primary": false,
-            "ap1ID": 1718143476415,
-            "ap2ID": 1718132187659
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1718307193785,
-            "ap2ID": 1718308814452
-        },
-        {
-            "ap1Name": "Geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1718333562331,
-            "ap2ID": 1718143745002
-        },
-        {
-            "ap1Name": "Geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1718333565797,
-            "ap2ID": 1718207489897
-        },
-        {
-            "ap1Name": "Geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1718333571635,
-            "ap2ID": 1718307193785
-        }
-    ],
+    "allConnectors": [],
     "unitsIndex": 0,
     "fileTypeVersion": 1,
     "filetypeVersion": 1
