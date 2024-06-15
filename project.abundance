@@ -1163,33 +1163,19 @@
         {
             "atomType": "Assembly",
             "name": "Assembly",
-            "x": 0.596875,
-            "y": 0.4259868421052631,
+            "x": 0.5536458333333333,
+            "y": 0.5345622119815668,
             "uniqueID": 1718132187659,
             "ioValues": [
                 {
-                    "name": "3D shape 15",
-                    "ioValue": 1718307343193
-                },
-                {
                     "name": "3D shape 16",
                     "ioValue": 1718131896609
+                },
+                {
+                    "name": "3D shape 17",
+                    "ioValue": 1718307193785
                 }
             ]
-        },
-        {
-            "atomType": "Color",
-            "name": "Color",
-            "x": 0.4807291666666667,
-            "y": 0.5944700460829493,
-            "uniqueID": 1718307343193,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": 1718308814452
-                }
-            ],
-            "selectedColorIndex": 5
         },
         {
             "atomType": "GitHubMolecule",
@@ -1708,33 +1694,8 @@
         {
             "atomType": "Rotate",
             "name": "Rotate",
-            "x": 0.44010416666666663,
-            "y": 0.8202764976958525,
-            "uniqueID": 1718308814452,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": 1718307193785
-                },
-                {
-                    "name": "x-axis degrees",
-                    "ioValue": 0
-                },
-                {
-                    "name": "y-axis degrees",
-                    "ioValue": 0
-                },
-                {
-                    "name": "z-axis degrees",
-                    "ioValue": 5
-                }
-            ]
-        },
-        {
-            "atomType": "Rotate",
-            "name": "Rotate",
-            "x": 0.3494791666666667,
-            "y": 0.9055299539170507,
+            "x": 0.3588541666666667,
+            "y": 0.8317972350230415,
             "uniqueID": 1718307193785,
             "ioValues": [
                 {
@@ -1751,23 +1712,6 @@
                 },
                 {
                     "name": "z-axis degrees",
-                    "ioValue": 0
-                }
-            ]
-        },
-        {
-            "atomType": "CutLayout",
-            "name": "Cut Layout",
-            "x": 0.7203125,
-            "y": 0.7302631578947368,
-            "uniqueID": 1718132093386,
-            "ioValues": [
-                {
-                    "name": "geometry",
-                    "ioValue": 1718396794874
-                },
-                {
-                    "name": "Spacing",
                     "ioValue": 5
                 }
             ]
@@ -1778,18 +1722,40 @@
             "x": 0.98,
             "y": 0.5,
             "uniqueID": 1718131849737,
-            "ioValues": []
+            "ioValues": [
+                {
+                    "name": "number or geometry",
+                    "ioValue": 1718416010910
+                }
+            ]
         },
         {
             "atomType": "Tag",
             "name": "Add Tag",
-            "x": 0.7041666666666667,
-            "y": 0.35714285714285715,
-            "uniqueID": 1718396794874,
+            "x": 0.6484375,
+            "y": 0.37557603686635943,
+            "uniqueID": 1718415993965,
             "ioValues": [
                 {
                     "name": "geometry",
                     "ioValue": 1718132187659
+                }
+            ]
+        },
+        {
+            "atomType": "CutLayout",
+            "name": "Cut Layout",
+            "x": 0.7567708333333334,
+            "y": 0.6129032258064516,
+            "uniqueID": 1718416010910,
+            "ioValues": [
+                {
+                    "name": "geometry",
+                    "ioValue": 1718415993965
+                },
+                {
+                    "name": "Material Thickness",
+                    "ioValue": 13
                 }
             ]
         }
@@ -1880,18 +1846,18 @@
             "ap2ID": 1718133429122
         },
         {
+            "ap1Name": "number or geometry",
+            "ap2Name": "Material Thickness",
+            "ap2Primary": false,
+            "ap1ID": 1718131926655,
+            "ap2ID": 1718416010910
+        },
+        {
             "ap1Name": "geometry",
             "ap2Name": "geometry",
             "ap2Primary": true,
             "ap1ID": 1718132187659,
-            "ap2ID": 1718396794874
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "3D shape 15",
-            "ap2Primary": false,
-            "ap1ID": 1718307343193,
-            "ap2ID": 1718132187659
+            "ap2ID": 1718415993965
         },
         {
             "ap1Name": "Geometry",
@@ -1902,31 +1868,24 @@
         },
         {
             "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1718308814452,
-            "ap2ID": 1718307343193
+            "ap2Name": "3D shape 17",
+            "ap2Primary": false,
+            "ap1ID": 1718307193785,
+            "ap2ID": 1718132187659
         },
         {
             "ap1Name": "geometry",
             "ap2Name": "geometry",
-            "ap2Primary": true,
-            "ap1ID": 1718307193785,
-            "ap2ID": 1718308814452
+            "ap2Primary": false,
+            "ap1ID": 1718415993965,
+            "ap2ID": 1718416010910
         },
         {
             "ap1Name": "geometry",
             "ap2Name": "number or geometry",
             "ap2Primary": false,
-            "ap1ID": 1718132093386,
+            "ap1ID": 1718416010910,
             "ap2ID": 1718131849737
-        },
-        {
-            "ap1Name": "geometry",
-            "ap2Name": "geometry",
-            "ap2Primary": false,
-            "ap1ID": 1718396794874,
-            "ap2ID": 1718132093386
         }
     ],
     "unitsIndex": 0,
