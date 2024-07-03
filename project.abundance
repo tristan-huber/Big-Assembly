@@ -889,6 +889,40 @@
             "unitsIndex": 0,
             "fileTypeVersion": 1,
             "compiledBom": []
+        },
+        {
+            "atomType": "Rectangle",
+            "name": "Rectangle",
+            "x": 0.615625,
+            "y": 0.8456221198156683,
+            "uniqueID": 1720028622050,
+            "ioValues": [
+                {
+                    "name": "x length",
+                    "ioValue": 100
+                },
+                {
+                    "name": "y length",
+                    "ioValue": 10
+                }
+            ]
+        },
+        {
+            "atomType": "Rectangle",
+            "name": "Rectangle",
+            "x": 0.7338541666666667,
+            "y": 0.6682027649769585,
+            "uniqueID": 1720028692356,
+            "ioValues": [
+                {
+                    "name": "x length",
+                    "ioValue": 10
+                },
+                {
+                    "name": "y length",
+                    "ioValue": 100
+                }
+            ]
         }
     ],
     "allConnectors": [
