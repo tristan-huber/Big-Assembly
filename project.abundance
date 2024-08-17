@@ -946,15 +946,6 @@
             "unitsKey": "MM",
             "fileTypeVersion": 1,
             "compiledBom": []
-        },
-        {
-            "atomType": "Text",
-            "name": "Text",
-            "x": 0.4801432291666667,
-            "y": 0.2462787550744249,
-            "uniqueID": 1723931537455,
-            "ioValues": [],
-            "fontFamily": "ROBOTO"
         }
     ],
     "allConnectors": [
