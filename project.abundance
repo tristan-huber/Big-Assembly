@@ -56,8 +56,8 @@
         {
             "atomType": "Tag",
             "name": "cutLayout,",
-            "x": 0.63671875,
-            "y": 0.4438430311231394,
+            "x": 0.69140625,
+            "y": 0.3382949932341001,
             "uniqueID": 1719949411593,
             "ioValues": [
                 {
@@ -74,8 +74,8 @@
         {
             "atomType": "Join",
             "name": "Assembly",
-            "x": 0.55078125,
-            "y": 0.7104194857916103,
+            "x": 0.6022135416666667,
+            "y": 0.4871447902571042,
             "uniqueID": 1719949786540,
             "ioValues": [
                 {
@@ -89,10 +89,6 @@
                 {
                     "name": "3D shape 9",
                     "ioValue": 1723932233914
-                },
-                {
-                    "name": "3D shape 10",
-                    "ioValue": 1724019269934
                 }
             ],
             "unionType": "Assembly"
@@ -1678,13 +1674,6 @@
             "ap2Primary": false,
             "ap1ID": 1724019170117,
             "ap2ID": 1718131849737
-        },
-        {
-            "ap1Name": "Geometry",
-            "ap2Name": "3D shape 10",
-            "ap2Primary": false,
-            "ap1ID": 1724019269934,
-            "ap2ID": 1719949786540
         }
     ],
     "unitsKey": "MM",
