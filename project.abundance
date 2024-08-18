@@ -83,10 +83,6 @@
                     "ioValue": 1720029635886
                 },
                 {
-                    "name": "3D shape 2",
-                    "ioValue": 1723939045565
-                },
-                {
                     "name": "3D shape 7",
                     "ioValue": 1723931949107
                 },
@@ -1156,7 +1152,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 452
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1286,12 +1282,7 @@
                     "x": 0.98,
                     "y": 0.5,
                     "uniqueID": 1723939046100,
-                    "ioValues": [
-                        {
-                            "name": "number or geometry",
-                            "ioValue": 1723939045759
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Move",
@@ -1327,7 +1318,7 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 452
+                            "ioValue": 10
                         },
                         {
                             "name": "y length",
@@ -1645,13 +1636,6 @@
             "ap2Primary": false,
             "ap1ID": 1723933414076,
             "ap2ID": 1718131849737
-        },
-        {
-            "ap1Name": "Geometry",
-            "ap2Name": "3D shape 2",
-            "ap2Primary": false,
-            "ap1ID": 1723939045565,
-            "ap2ID": 1719949786540
         }
     ],
     "unitsKey": "MM",
