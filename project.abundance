@@ -46,12 +46,7 @@
             "x": 0.98,
             "y": 0.5,
             "uniqueID": 1718131849737,
-            "ioValues": [
-                {
-                    "name": "number or geometry",
-                    "ioValue": 1723933414076
-                }
-            ]
+            "ioValues": []
         },
         {
             "atomType": "Tag",
