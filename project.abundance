@@ -1084,7 +1084,7 @@
                 },
                 {
                     "name": "Sheet Padding",
-                    "ioValue": 0
+                    "ioValue": 3
                 }
             ]
         },
