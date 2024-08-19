@@ -1076,7 +1076,7 @@
                 },
                 {
                     "name": "Sheet Width",
-                    "ioValue": 600
+                    "ioValue": 550
                 },
                 {
                     "name": "Sheet Height",
@@ -1088,7 +1088,7 @@
                 },
                 {
                     "name": "Sheet Padding",
-                    "ioValue": 0
+                    "ioValue": 6
                 }
             ]
         },
