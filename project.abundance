@@ -89,10 +89,6 @@
                 {
                     "name": "3D shape 9",
                     "ioValue": 1723932233914
-                },
-                {
-                    "name": "3D shape 11",
-                    "ioValue": 1724085947839
                 }
             ],
             "unionType": "Assembly"
@@ -1095,8 +1091,8 @@
         {
             "atomType": "GitHubMolecule",
             "name": "clock_face",
-            "x": 0.38216145833333337,
-            "y": 0.5981055480378891,
+            "x": 0.35286458333333337,
+            "y": 0.5115020297699594,
             "uniqueID": 1724085948200,
             "ioValues": [
                 {
@@ -1156,7 +1152,7 @@
                     "ioValues": [
                         {
                             "name": "diameter",
-                            "ioValue": 452
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1173,7 +1169,7 @@
                         },
                         {
                             "name": "height",
-                            "ioValue": 8.25
+                            "ioValue": 5.25
                         }
                     ]
                 },
@@ -1186,7 +1182,7 @@
                     "ioValues": [
                         {
                             "name": "t",
-                            "ioValue": 13
+                            "ioValue": 10
                         },
                         {
                             "name": "b",
@@ -1258,7 +1254,7 @@
                         },
                         {
                             "name": "height",
-                            "ioValue": 13
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1286,12 +1282,7 @@
                     "x": 0.98,
                     "y": 0.5,
                     "uniqueID": 1724085947806,
-                    "ioValues": [
-                        {
-                            "name": "number or geometry",
-                            "ioValue": 1724085947798
-                        }
-                    ]
+                    "ioValues": []
                 },
                 {
                     "atomType": "Move",
@@ -1327,7 +1318,7 @@
                     "ioValues": [
                         {
                             "name": "x length",
-                            "ioValue": 452
+                            "ioValue": 10
                         },
                         {
                             "name": "y length",
@@ -1348,7 +1339,7 @@
                         },
                         {
                             "name": "height",
-                            "ioValue": 13
+                            "ioValue": 10
                         }
                     ]
                 },
@@ -1583,13 +1574,6 @@
         },
         {
             "ap1Name": "number or geometry",
-            "ap2Name": "outter_diameter",
-            "ap2Primary": false,
-            "ap1ID": 1718131938259,
-            "ap2ID": 1724085947839
-        },
-        {
-            "ap1Name": "number or geometry",
             "ap2Name": "thickness",
             "ap2Primary": false,
             "ap1ID": 1718131926655,
@@ -1615,13 +1599,6 @@
             "ap2Primary": false,
             "ap1ID": 1718131926655,
             "ap2ID": 1724019170117
-        },
-        {
-            "ap1Name": "number or geometry",
-            "ap2Name": "thickness",
-            "ap2Primary": false,
-            "ap1ID": 1718131926655,
-            "ap2ID": 1724085947839
         },
         {
             "ap1Name": "geometry",
