@@ -1080,7 +1080,7 @@
                 },
                 {
                     "name": "Sheet Height",
-                    "ioValue": 600
+                    "ioValue": 470
                 },
                 {
                     "name": "Part Padding",
@@ -1088,7 +1088,7 @@
                 },
                 {
                     "name": "Sheet Padding",
-                    "ioValue": 50
+                    "ioValue": 0
                 }
             ]
         },
